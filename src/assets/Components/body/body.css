@@ -1,0 +1,23 @@
+*{margin: 0;padding: 0;box-sizing: border-box ;}
+#body{
+  display: flex;
+  justify-content: center;
+  background: red;
+  color: wheat;
+  padding: 50px 20px;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  ul{
+    width: 100px;
+    color: white;
+    >li{
+      width: 100%;
+      list-style-type: none;
+      padding: 20px 0;
+    }
+  }
+  h1{
+    width: 500px;
+  }
+}

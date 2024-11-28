@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+footer{
+  background: yellow;
+  width: 100%;
+  text-align: center;
+  h1{
+    text-transform: capitalize;
+    font-weight: bold;
+
+  }
+  p{
+    font-size: 20px;
+    color: blue;
+  }
+}
